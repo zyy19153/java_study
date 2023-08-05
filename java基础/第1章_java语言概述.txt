@@ -1,0 +1,65 @@
+软件：
+	系统软件
+	应用软件
+
+人机交互方式：
+	图形化界面（Graphical User Interface GUI）
+	命令行方式（Command Line Interface CLI）
+
+应用程序 = 算法 + 数据结构
+
+常见DOS指令：
+	d：到d盘 
+	dir显示目录 
+	md_wenjianjia创建文件夹 
+	cd_wenjianjia进入文件夹 
+	echo_name:Tom Age:12>1.doc创建1.doc文件并写入name... 
+	del_wenjian删除文件 
+	rd_wenjianjia删除文件夹
+	
+计算机语言迭代史
+	第一代：机器语言
+	第二代：汇编语言
+	第三代：高级语言
+			面向过程：C，Pascal...
+			面向对象：java，JS，Python...
+
+java SE(standard Edition)标准版 桌面级应用
+Java EE(Enterprise Edition)企业版 企业软件
+Java ME(Micro Edition)小型版
+
+Java应用：1.企业级应用 2.安卓平台开发 3.大数据平台开发
+
+Java语言特点：
+	1.面向对象 
+		两个要素：类，对象
+		三个特征：封装，继承，多态
+	2.健壮性 
+		去除了C语言中的指针
+		自动的垃圾回收机制 ---> 仍会出现内存泄漏、内存溢出
+	3.跨平台性
+		write once,run anywhere. ---> 归功于虚拟机
+		
+Java两种核心机制：1.Java虚拟机 2.垃圾收集机制
+	JVM相当于一个虚拟的计算机，是java运行的平台
+	java即使垃圾会自动回收，但仍会出现内存泄漏和内存溢出等问题
+
+java语言的环境搭建：
+	JDK(Java Development Kit Java开发工具包) 包括java开发工具（java.exe javac.exe javadoc.exe）和JRE            开发用
+	JRE(Java Runtime Environment Java运行环境) 包括JVM和java所需核心类库                                        运行用
+
+配置path环境变量：希望可以在任意文件路径下都可以执行java开发工具
+	新建：JAVA_HOME=jdk的目录 再在path里新建：path = %JAVA_HOME%\bin
+
+javac编译 java解释运行 javadoc生成网页形式文档
+
+	.java文件(源文件)------------>.class文件(字节码文件)----------->结果
+					javac.exe编译                       java.exe运行
+
+注意java严格区分大小写，但是windows不区分，故在cmd里编译文件时，也可以不区分。
+
+API（Application Programming Interface,应用程序编程接口）是java提供的基本编程接口。
+	习惯上将语言提供的类库都称为API
+	API文档即API使用说明书。
+	
+IDE（Integrated Development Environment,集成开发环境）

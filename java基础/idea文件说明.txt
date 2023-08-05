@@ -1,0 +1,78 @@
+day06
+	java
+		Arraytest :一维数组
+		Arraytest1 :二维数组
+day07
+	java
+		ArrayTest:数组操作方法
+		Arraytest1：一维数组输出最大值、最小值、平均数
+		Arraytest2：数组元素反转、查找
+		Bubblesorttest：冒泡排序
+		ArrayExceptionTest：数组常见的异常
+day08
+	java
+		OOPTest：面向对象基本概念
+		Person：设计类
+		Customer：类中方法的声明和使用
+		UserTest：类中属性的使用
+day09
+	java
+		InstanceTest：理解万事万物皆对象、匿名对象的使用
+		OverLoad：重载
+		MethodArgs：可变个数形参的方法
+		ValueTransfer：java值传递机制
+		Recursion：递归方法
+day10
+	java
+		AniamlTest：封装性
+	Java1
+		Customer：Javabean
+		PersonTest：构造器
+		UserTest：属性赋值的先后顺序
+	java2
+		PersonTest：this关键字
+		PackageImport：package import关键字
+day11
+	java	
+		Extends ：继承性
+day12
+	java
+		debug：debug
+	java1
+		Perosn：方法的重写
+	java3
+		Instance：子类对象实例化的过程
+		SuperTest：super关键字
+day13
+	java	
+		Person：多态性 
+	java1
+		EqualsTest:equals
+		ToString：toString
+		Object：Object类介绍
+	java2
+		 JUNITTest：@test
+		 Wrapper：基本数据类型、包装类、String三者之间的转化
+day14
+	java
+		StaticTest：Static关键字
+	java1
+		MainTest：main方法
+		SingleTon1：单例模式 饿汉式
+		SingleTon2：单例模式 懒汉式
+	java2
+		Final：final关键字
+		BlockTest：代码块
+		OrderTest：修饰属性的先后顺序
+day15
+	java
+		AbstractTest：abstract关键字
+		Template：模板方法的设计模式
+	java1
+		Interface：interface关键字
+		USBTest：interface的使用
+		NetWorkTest：代理模式
+	java2
+		InnerClassTest：内部类
+	java8
+		SubClassTest：java8接口新特性
